@@ -1,0 +1,7 @@
+Modelo dentro del T-learner,Correlación con el uplift real,Qini,% óptimo,Valor total en el óptimo ($)
+Logística (la del notebook),0.619,0.142,25,2453.53
+Árbol sin límite,0.204,0.066,5,-341.56
+Árbol max_depth=2,0.605,0.112,25,2339.78
+"Árbol max_depth=4, min_samples_leaf=200",0.748,0.143,20,3569.42
+"Random Forest (300, max_depth=6, min_samples_leaf=100)",0.857,0.157,20,4433.8
+"Gradient Boosting (max_depth=3, lr=0.05, 200)",0.838,0.156,20,4479.76
